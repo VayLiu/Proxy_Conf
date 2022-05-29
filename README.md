@@ -1,2 +1,3 @@
 # Proxy_Conf
-懒人配置
+
+> 关于 Loon 的一些配置

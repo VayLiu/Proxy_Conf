@@ -1,0 +1,39 @@
+# NAME: Telegram
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-03-22 02:12:39
+# IP-CIDR: 6
+# IP6-CIDR: 4
+# DOMAIN-KEYWORD: 2
+# DOMAIN-SUFFIX: 18
+# TOTAL: 30
+DOMAIN-SUFFIX,comments.app,Telegram
+DOMAIN-SUFFIX,contest.com,Telegram
+DOMAIN-SUFFIX,graph.org,Telegram
+DOMAIN-SUFFIX,quiz.directory,Telegram
+DOMAIN-SUFFIX,stel.com,Telegram
+DOMAIN-SUFFIX,t.me,Telegram
+DOMAIN-SUFFIX,tdesktop.com,Telegram
+DOMAIN-SUFFIX,telega.one,Telegram
+DOMAIN-SUFFIX,telegra.ph,Telegram
+DOMAIN-SUFFIX,telegram.dog,Telegram
+DOMAIN-SUFFIX,telegram.me,Telegram
+DOMAIN-SUFFIX,telegram.org,Telegram
+DOMAIN-SUFFIX,telegram.space,Telegram
+DOMAIN-SUFFIX,telegramdownload.com,Telegram
+DOMAIN-SUFFIX,telesco.pe,Telegram
+DOMAIN-SUFFIX,tg.dev,Telegram
+DOMAIN-SUFFIX,tx.me,Telegram
+DOMAIN-SUFFIX,usercontent.dev,Telegram
+DOMAIN-KEYWORD,nicegram,Telegram
+DOMAIN-KEYWORD,telegram,Telegram
+IP-CIDR,109.239.140.0/24,Telegram
+IP-CIDR,149.154.160.0/20,Telegram
+IP-CIDR,185.76.151.0/24,Telegram
+IP-CIDR,91.105.192.0/23,Telegram
+IP-CIDR,91.108.0.0/16,Telegram
+IP-CIDR,95.161.64.0/20,Telegram
+IP6-CIDR,2001:67c:4e8::/48,Telegram
+IP6-CIDR,2001:b28:f23c::/47,Telegram
+IP6-CIDR,2001:b28:f23f::/48,Telegram
+IP6-CIDR,2a0a:f280::/32,Telegram
